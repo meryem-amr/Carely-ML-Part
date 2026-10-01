@@ -110,7 +110,3 @@ asleep and awake.
 ### Dataset
 
 Trained on the **Child Mind Institute** sleep dataset from Kaggle.
-
-## License
-
-<MIT / Apache-2.0 / All rights reserved>
